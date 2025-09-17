@@ -1951,7 +1951,7 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
+                waitFor:
                   type: number
               type: object
       responses:
@@ -2304,7 +2304,7 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
+                waitFor:
                   type: number
               type: object
       responses:
@@ -2697,7 +2697,7 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
+                waitFor:
                   type: number
               type: object
       responses:
@@ -2940,7 +2940,7 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
+                waitFor:
                   type: number
               type: object
       responses:
@@ -3332,7 +3332,7 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
+                waitFor:
                   type: number
               type: object
       responses:
@@ -4092,7 +4092,7 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
+                waitFor:
                   type: number
               type: object
       responses:
@@ -4434,7 +4434,7 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
+                waitFor:
                   type: number
               type: object
       responses:
@@ -4916,7 +4916,7 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
+                waitFor:
                   type: number
               type: object
       responses:
@@ -5365,7 +5365,7 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
+                waitFor:
                   type: number
               type: object
       responses:
@@ -5920,7 +5920,7 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
+                waitFor:
                   type: number
               type: object
       responses:

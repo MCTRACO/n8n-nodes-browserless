@@ -1481,7 +1481,7 @@
                       "selector"
                     ]
                   },
-                  "waitForTimeout": {
+                  "waitFor": {
                     "type": "number"
                   }
                 },
@@ -1820,7 +1820,7 @@
                       "selector"
                     ]
                   },
-                  "waitForTimeout": {
+                  "waitFor": {
                     "type": "number"
                   }
                 },
@@ -2246,7 +2246,7 @@
                       "selector"
                     ]
                   },
-                  "waitForTimeout": {
+                  "waitFor": {
                     "type": "number"
                   }
                 },
@@ -2540,7 +2540,7 @@
                       "selector"
                     ]
                   },
-                  "waitForTimeout": {
+                  "waitFor": {
                     "type": "number"
                   }
                 },
@@ -3011,7 +3011,7 @@
                       "selector"
                     ]
                   },
-                  "waitForTimeout": {
+                  "waitFor": {
                     "type": "number"
                   }
                 },
@@ -3869,7 +3869,7 @@
                       "selector"
                     ]
                   },
-                  "waitForTimeout": {
+                  "waitFor": {
                     "type": "number"
                   }
                 },
@@ -4286,7 +4286,7 @@
                       "selector"
                     ]
                   },
-                  "waitForTimeout": {
+                  "waitFor": {
                     "type": "number"
                   }
                 },
@@ -4884,7 +4884,7 @@
                       "selector"
                     ]
                   },
-                  "waitForTimeout": {
+                  "waitFor": {
                     "type": "number"
                   }
                 },
@@ -5444,7 +5444,7 @@
                       "selector"
                     ]
                   },
-                  "waitForTimeout": {
+                  "waitFor": {
                     "type": "number"
                   }
                 },
@@ -6077,7 +6077,7 @@
                       "selector"
                     ]
                   },
-                  "waitForTimeout": {
+                  "waitFor": {
                     "type": "number"
                   }
                 },

@@ -60,14 +60,14 @@ export const properties: INodeProperties[] = [
   },
   {
     displayName: 'Wait For Timeout',
-    name: 'waitForTimeout',
+    name: 'waitFor',
     type: 'number',
     default: 0,
     description: undefined,
     routing: {
       request: {
         body: {
-          waitForTimeout: '={{ $value }}',
+          waitFor: '={{ $value }}',
         },
       },
     },
